@@ -1,0 +1,137 @@
+.skill-category{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+ul > li {
+    list-style: none;
+}
+
+.section-head{
+    color: darkgray;
+}
+
+.card{
+    padding: 10px 10px 0px 10px;
+    margin: 10px;
+    
+}
+
+.list-content > p, h5 {
+    margin-bottom: 0px;
+}
+.card > p > small {
+    color: gray
+}
+
+.btn-gray{
+    border: none;
+    color: white;
+    background: darkgray;
+    margin: 10px 0px;
+}
+.btn-red{
+    border: none;
+    color: white;
+    background: lightcoral;
+    margin: 10px 0px;
+    
+}
+
+.skill-btn{
+    border: 1px solid gray;
+    display: table;
+    padding: 5px;
+}
+.list-content-wrapper{
+    border-top: 1px solid lightgray;
+}
+.list-content-wrapper > div{
+    display: inline-block;
+    padding: 10px 0px;
+    
+}
+
+.list-content{
+    float: left;
+    width: 95%;
+}
+.list-action{
+    float: right;
+}
+
+
+
+.form-wrapper{
+    -webkit-box-shadow:2px 1px 4px 2px #d7d0d0 ;
+    -moz-box-shadow:2px 1px 4px 2px #d7d0d0 ;
+    box-shadow:2px 1px 4px 2px #d7d0d0 ;
+    padding: 20px;
+    
+}
+.form-wrapper > input {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+.custom-icon{
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.custom-icon-md{
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.custom-icon-sm{
+    font-size: 0.5rem;
+    cursor: pointer;
+}
+
+.custom-icon-lg{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+button{
+    color: gray;
+}
+
+
+.nav-wrapper{
+    background-color: #ebe7e7;
+    padding: 10px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.auth-form{
+    padding: 45px 50px;
+    
+}
+.auth-form > input{
+    margin-bottom: 20px;
+}
+
+.btn-sml{
+    width: 100px;
+}
+
+.skill-wrapper > p {
+    display: inline-block;
+    background: darkgray;
+    color: white;
+    margin-right: 15px;
+    padding: 1px 15px;
+    border-radius: 15px;
+}
+
+.skill-wrapper > p > i {
+    margin-left: 10px;
+    cursor: pointer;
+}
